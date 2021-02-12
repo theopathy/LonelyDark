@@ -1,0 +1,613 @@
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/angstridden.uasset" 0
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/armor.uasset" 1
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 2
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/angstridden_Font.uasset" 3
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/DPS.uasset" 4
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/BP_battle_dps.uasset" 5
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Attacks/base_attack.uasset" 6
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Attacks.uasset" 7
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/CqH2nkrWIAA-Yiw.uasset" 8
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 9
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/DefaultTextMaterialOpaque1.uasset" 10
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/map.uasset" 11
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/m_ultraFart.uasset" 12
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/cursor.uasset" 13
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/NewBlueprint.uasset" 14
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/oBox.uasset" 15
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/parry.uasset" 16
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/figure_E.uasset" 17
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/wood.uasset" 18
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/RandomPlayer.uasset" 19
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/RandomPlayer_Inst.uasset" 20
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Test.uasset" 21
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 22
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 23
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Vignette.uasset" 24
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 25
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 26
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 27
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2dSideScroller/Textures/2DBackground.uasset" 28
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Sprites/Background_Sprite.uasset" 29
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2dSideScroller/Textures/2DCharacter_IdleAnimAtlas.uasset" 30
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle1.uasset" 31
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle2.uasset" 32
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle3.uasset" 33
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle4.uasset" 34
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle5.uasset" 35
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle6.uasset" 36
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle7.uasset" 37
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle8.uasset" 38
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Sprites/IdleAnimation.uasset" 39
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2dSideScroller/Textures/2DBackgroundTile.uasset" 40
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Materials/PrototypingSpriteMaterial.uasset" 41
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Sprites/PrototypingSprite.uasset" 42
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas.uasset" 43
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2dSideScroller/Sprites/RunFrames/RunCycle_1.uasset" 44
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2dSideScroller/Sprites/RunFrames/RunCycle_10.uasset" 45
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2dSideScroller/Sprites/RunFrames/RunCycle_11.uasset" 46
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2dSideScroller/Sprites/RunFrames/RunCycle_12.uasset" 47
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2dSideScroller/Sprites/RunFrames/RunCycle_13.uasset" 48
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2dSideScroller/Sprites/RunFrames/RunCycle_14.uasset" 49
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2dSideScroller/Sprites/RunFrames/RunCycle_15.uasset" 50
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2dSideScroller/Sprites/RunFrames/RunCycle_16.uasset" 51
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2dSideScroller/Sprites/RunFrames/RunCycle_2.uasset" 52
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2dSideScroller/Sprites/RunFrames/RunCycle_3.uasset" 53
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2dSideScroller/Sprites/RunFrames/RunCycle_4.uasset" 54
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2dSideScroller/Sprites/RunFrames/RunCycle_5.uasset" 55
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2dSideScroller/Sprites/RunFrames/RunCycle_6.uasset" 56
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2dSideScroller/Sprites/RunFrames/RunCycle_7.uasset" 57
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2dSideScroller/Sprites/RunFrames/RunCycle_8.uasset" 58
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2dSideScroller/Sprites/RunFrames/RunCycle_9.uasset" 59
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Sprites/RunningAnimation.uasset" 60
+"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 61
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Sprite_0.uasset" 62
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Sprite_1.uasset" 63
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Sprite_12.uasset" 64
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Sprite_15.uasset" 65
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Sprite_18.uasset" 66
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Sprite_19.uasset" 67
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Sprite_2.uasset" 68
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Sprite_22.uasset" 69
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Sprite_25.uasset" 70
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Sprite_28.uasset" 71
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Sprite_3.uasset" 72
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Sprite_32.uasset" 73
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Sprite_4.uasset" 74
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Sprite_5.uasset" 75
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Sprite_6.uasset" 76
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Sprite_7.uasset" 77
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas1.uasset" 78
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Plague_Run0.uasset" 79
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Plague_Run1.uasset" 80
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Plague_Run10.uasset" 81
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Plague_Run11.uasset" 82
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Plague_Run12.uasset" 83
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Plague_Run13.uasset" 84
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Plague_Run14.uasset" 85
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Plague_Run15.uasset" 86
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Plague_Run2.uasset" 87
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Plague_Run3.uasset" 88
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Plague_Run4.uasset" 89
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Plague_Run5.uasset" 90
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Plague_Run6.uasset" 91
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Plague_Run7.uasset" 92
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Plague_Run8.uasset" 93
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Plague_Run9.uasset" 94
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Plague_Run.uasset" 95
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas_Sprite.uasset" 96
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScrollerBP/2DSideScrollerOverview.uasset" 97
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Stances/Character_Pose_Attack_Sprite.uasset" 98
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Stances/Character_Pose_Attack_Flipbook.uasset" 99
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Attacks/enemy_attack.uasset" 100
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/healthbar.uasset" 101
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/healthbar_Mat.uasset" 102
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uasset" 103
+"../../Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset" 104
+"../../Plugins/2D/Paper2D/Content/MaskedLitSpriteMaterial.uasset" 105
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/MaskedLitSpriteMaterial_Inst.uasset" 106
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 107
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 108
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 109
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 110
+"../../../Engine/Content/BasicShapes/Plane.uasset" 111
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/bandit/Bandit_Pose_1_Sprite.uasset" 112
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/bandit/Bandit_Pose.uasset" 113
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/bandit/Bandit_Pose_2_Sprite.uasset" 114
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/bandit/Bandit_Pose1.uasset" 115
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/bandit/Bandit_Pose_3_Sprite.uasset" 116
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/bandit/Bandit_Pose2.uasset" 117
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/base_enemy.uasset" 118
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 119
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Attacks/Icons/eviscerate.uasset" 120
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/ItemIcon.uasset" 121
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Numbers.uasset" 122
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Scaler.uasset" 123
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/selection.uasset" 124
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Untitled-1.uasset" 125
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/ItemIcons/ItemIcon_Mat.uasset" 126
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/s_Spell.uasset" 127
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 128
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 129
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 130
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/bordercrossing.uasset" 131
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/bordercrossing_Mat.uasset" 132
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/GrittyFont.uasset" 133
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Tooltip.uasset" 134
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Ablity_button.uasset" 135
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Stances/Character_Pose_Hurt_Sprite.uasset" 136
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Stances/Character_Pose_Hurt_Flipbook.uasset" 137
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Stances/Main_Character_Idle_Animation_Sprite_0.uasset" 138
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Stances/Main_Character_Idle_Animation_Sprite_1.uasset" 139
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Stances/Main_Character_Idle_Animation_Sprite_2.uasset" 140
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Stances/Main_Character_Idle_Animation1.uasset" 141
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/FightManager.uasset" 142
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Attacks/NewFunctionLibrary.uasset" 143
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Attacks/player_attack.uasset" 144
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Stances/Character_Pose_Eviscerate_Sprite.uasset" 145
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Stances/Character_Pose_Eviscerate_Flipbook.uasset" 146
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Attacks/player_eviscerate.uasset" 147
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Stances/Character_Pose_Shoot_Sprite.uasset" 148
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Stances/Character_Pose_Shoot_Flipbook.uasset" 149
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Attacks/player_gun.uasset" 150
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Attacks/player_plunder.uasset" 151
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Stances/Character_Pose_ApplyPoison_Sprite.uasset" 152
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Stances/PosAttack.uasset" 153
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Attacks/player_poison.uasset" 154
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Stances/Character_Pose_SmokeBomb.uasset" 155
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Stances/Character_Pose_SmokeBomb_Sprite.uasset" 156
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Stances/Character_Pose_SmokeBomb_Flipbook.uasset" 157
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Attacks/player_smokebomb.uasset" 158
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/FadeToBlack.uasset" 159
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Stances/Character_Pose_Ready_Sprite.uasset" 160
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Stances/Character_Pose_Ready_Flipbook.uasset" 161
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_10_Sprite.uasset" 162
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_11_Sprite.uasset" 163
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_12_Sprite.uasset" 164
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_13_Sprite.uasset" 165
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_14_Sprite.uasset" 166
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_15_Sprite.uasset" 167
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_16_Sprite.uasset" 168
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_17_Sprite.uasset" 169
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_1_Sprite.uasset" 170
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_2_Sprite.uasset" 171
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_3_Sprite.uasset" 172
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_4_Sprite.uasset" 173
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_6_Sprite.uasset" 174
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_7_Sprite.uasset" 175
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_8_Sprite.uasset" 176
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_9_Sprite.uasset" 177
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer.uasset" 178
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Bradley_Gratis.uasset" 179
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Bradley_Gratis_Font.uasset" 180
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/NewFolder/IBMPlexMono-Medium.uasset" 181
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/NewFolder/IBMPlexMono-Medium_Font.uasset" 182
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/UI_BORDER.uasset" 183
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/UI_Border_mat.uasset" 184
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 185
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/UI_Gradient.uasset" 186
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Untitled-1_Mat.uasset" 187
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScrollerBP/Blueprints/Inventory_UI/Struct_Item.uasset" 188
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Blueprints/bp_playerController.uasset" 189
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/DroidSansMono.uasset" 190
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/DroidSansMono_Font.uasset" 191
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScrollerBP/Blueprints/Inventory_UI/WBP_Item.uasset" 192
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScrollerBP/Blueprints/Inventory_UI/WBP_Inventory.uasset" 193
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Attacks/Icons/Attack.uasset" 194
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Attacks/Icons/Deadshot.uasset" 195
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Attacks/Icons/Plunder.uasset" 196
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Attacks/Icons/SpellIcon.uasset" 197
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Attacks/Icons/vial.uasset" 198
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/crit.uasset" 199
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/dodge.uasset" 200
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/energy.uasset" 201
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/hp.uasset" 202
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Resource_Tooltip.uasset" 203
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/widget_UI.uasset" 204
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset" 205
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 206
+"../../../Engine/Content/BasicShapes/Cube.uasset" 207
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScrollerBP/Blueprints/WBP_ItemTest.uasset" 208
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScrollerBP/Blueprints/Inventory_UI/brandy-bottle.uasset" 209
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScrollerBP/Blueprints/Inventory_UI/TestBorderIcon.uasset" 210
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScrollerBP/Blueprints/Inventory_UI/WBP_missingItem.uasset" 211
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScrollerBP/Maps/Room1.uasset" 212
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.uasset" 213
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Levels/Room1_BuiltData.uasset" 214
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset" 215
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Attacks/AttackAnimationPose.uasset" 216
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Attacks/AttackManager.uasset" 217
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Attacks/_pure_base_attack.uasset" 218
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Background/dock.uasset" 219
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Background/Inn.uasset" 220
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Background/Layer_17.uasset" 221
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Background/tip.uasset" 222
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Background/tip2.uasset" 223
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Background/warehouse.uasset" 224
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/healthbar_Sprite.uasset" 225
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/bandit/Bandit_Pose_1.uasset" 226
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/bandit/Bandit_Pose_2.uasset" 227
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/bandit/Bandit_Pose_3.uasset" 228
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/flamesister/Pyro_Pose_2.uasset" 229
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/flamesister/Pyro_Pose_2_Sprite.uasset" 230
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/flamesister/Pyro_Pose1.uasset" 231
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/rat/MRat_Pose_1_Sprite.uasset" 232
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/rat/MRat_Pose.uasset" 233
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/rat/Mrat_Pose_2_Sprite.uasset" 234
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/rat/Mrat_Pose1.uasset" 235
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/rat/MRat_Pose_3_Sprite.uasset" 236
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/rat/MRat_Pose2.uasset" 237
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/rat/MRat_Pose_1.uasset" 238
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/rat/Mrat_Pose_2.uasset" 239
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/rat/MRat_Pose_3.uasset" 240
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/rat/Rat_Pose_1.uasset" 241
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/rat/Rat_Pose_2.uasset" 242
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/rat/Rat_Pose_3.uasset" 243
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/sniper/brawler_pose_1.uasset" 244
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/sniper/brawler_pose_2.uasset" 245
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/sniper/brawler_pose_3.uasset" 246
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/sniper/Shooter_Pose_1_Sprite.uasset" 247
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/sniper/Shooter_Pose.uasset" 248
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/sniper/Shooter_Pose_1.uasset" 249
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/sniper/Shooter_Pose_2.uasset" 250
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/sniper/Shooter_Pose_3.uasset" 251
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/IDA_Music_Pack/Wavs/WAV_IDA_-_Low_Intensity_Loop.uasset" 252
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/IDA_Music_Pack/Cues/CUE_IDA_-_Low_Intensity_Loop_Cue.uasset" 253
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/IDA_Music_Pack/Wavs/WAV_IDA_-_Main_Theme_Loop.uasset" 254
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/IDA_Music_Pack/Cues/CUE_IDA_-_Main_Theme_Loop_Cue.uasset" 255
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/IDA_Music_Pack/Wavs/WAV_IDA_-_Medium_Intensity.uasset" 256
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/IDA_Music_Pack/Cues/CUE_IDA_-_Medium_Intensity_Cue.uasset" 257
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/IDA_Music_Pack/Wavs/WAV_UI_IDA_-_Event_Stinger.uasset" 258
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/IDA_Music_Pack/Cues/CUE_UI_IDA_-_Event_Stinger_Cue.uasset" 259
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/ItemIcons/Button_01.uasset" 260
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Levels/deadscreen2.uasset" 261
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/applecolour1.uasset" 262
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/applecolour2.uasset" 263
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/applecolour3.uasset" 264
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/top_of_apple.uasset" 265
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/apple_single.uasset" 266
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/barrelmetalcolour.uasset" 267
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/barrelplankcolour.uasset" 268
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/Barrelwoodcolour.uasset" 269
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/lambert1.uasset" 270
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/barrel_keg_single.uasset" 271
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/barrel_wide_single.uasset" 272
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/cartmetalcolour.uasset" 273
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/basket_empty.uasset" 274
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/beerbottleglass.uasset" 275
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/beerbottlelabel.uasset" 276
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/chalicewinecolour.uasset" 277
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/beer_bottle.uasset" 278
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/benchwoodcolour.uasset" 279
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/plankbenchcolour.uasset" 280
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/bench.uasset" 281
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/bookcover2.uasset" 282
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/bookpapercolour.uasset" 283
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/blue_book.uasset" 284
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/potionbottle2.uasset" 285
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/potioncolourtop.uasset" 286
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/blue_potion.uasset" 287
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/bookcover1.uasset" 288
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/bookcover3.uasset" 289
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/book_stack_horizontal.uasset" 290
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/cratecolour1.uasset" 291
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/cratecolourplank.uasset" 292
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/metal_crate_colour.uasset" 293
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/box_long_horizontal.uasset" 294
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/box_small.uasset" 295
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/box_small_long.uasset" 296
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/cart_colour2.uasset" 297
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/cartcolour1.uasset" 298
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/cart_empty.uasset" 299
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/cart_full.uasset" 300
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/cart_half_full.uasset" 301
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/chalicecolour.uasset" 302
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/chalice.uasset" 303
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/stooltopcolour.uasset" 304
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/chest.uasset" 305
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/potionbottle1.uasset" 306
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/potionbottle3.uasset" 307
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/crate_full.uasset" 308
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/platecolour.uasset" 309
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/dish.uasset" 310
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/chimneycolour2.uasset" 311
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/chimneycolour3.uasset" 312
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/chimneymaincolour.uasset" 313
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/logs_fire_bark_colour.uasset" 314
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/rockschimney.uasset" 315
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/woodlogcolour.uasset" 316
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/fireplace.uasset" 317
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/green_book.uasset" 318
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/green_potion.uasset" 319
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/haybalecolour1.uasset" 320
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/haybalecolour2.uasset" 321
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/haybalecolour3.uasset" 322
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/haybalestringcolour.uasset" 323
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/haybale.uasset" 324
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/lanterncolourmetal.uasset" 325
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/phongE1.uasset" 326
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/lantern.uasset" 327
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/plate.uasset" 328
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/potmetal.uasset" 329
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/pot_lid.uasset" 330
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/pot_no_lid.uasset" 331
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/red_book.uasset" 332
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/red_potion.uasset" 333
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/bagcolour.uasset" 334
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/bagcolour2.uasset" 335
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/sack_single.uasset" 336
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/sack_three.uasset" 337
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/tablecolour.uasset" 338
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/stool.uasset" 339
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/tabletopcolour.uasset" 340
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/table.uasset" 341
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/tankarddrinkcolour.uasset" 342
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/tankardmetalcolour.uasset" 343
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/tankard.uasset" 344
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Stances/Character_Pose_ApplyPoison.uasset" 345
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Stances/Character_Pose_Attack.uasset" 346
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Stances/Character_Pose_Eviscerate.uasset" 347
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Stances/Character_Pose_Hurt.uasset" 348
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Stances/Character_Pose_Plunder.uasset" 349
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Stances/Character_Pose_Plunder_Sprite.uasset" 350
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Stances/Character_Pose_Plunder_Flipbook.uasset" 351
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Stances/Character_Pose_Ready.uasset" 352
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Stances/Character_Pose_Shoot.uasset" 353
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Stances/Main_Character_Idle_Animation.uasset" 354
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Stances/Main_Character_Idle_Animation_Sprite_3.uasset" 355
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_1.uasset" 356
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_10.uasset" 357
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_11.uasset" 358
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_12.uasset" 359
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_13.uasset" 360
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_14.uasset" 361
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_15.uasset" 362
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_16.uasset" 363
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_17.uasset" 364
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_2.uasset" 365
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_3.uasset" 366
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_4.uasset" 367
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_6.uasset" 368
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_7.uasset" 369
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_8.uasset" 370
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Player/Walk/Layer_9.uasset" 371
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 372
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 373
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 374
+"../../../Engine/Content/BasicShapes/Cone.uasset" 375
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 376
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 377
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 378
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 379
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 380
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 381
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 382
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 383
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 384
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 385
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 386
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 387
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 388
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 389
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 390
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 391
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 392
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 393
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 394
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 395
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 396
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 397
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 398
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 399
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 400
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 401
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 402
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 403
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 404
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 405
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 406
+"../../../Engine/Content/EditorResources/S_Note.uasset" 407
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 408
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 409
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 410
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 411
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 412
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 413
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 414
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 415
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 416
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 417
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 418
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 419
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 420
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 421
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 422
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 423
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 424
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 425
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 426
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 427
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 428
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 429
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 430
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 431
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 432
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 433
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 434
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 435
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 436
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 437
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 438
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 439
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 440
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 441
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 442
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 443
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 444
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 445
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 446
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 447
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 448
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 449
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 450
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 451
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 452
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 453
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 454
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 455
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 456
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 457
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 458
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 459
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 460
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 461
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 462
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 463
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 464
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 465
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 466
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 467
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 468
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 469
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 470
+"../../../Engine/Content/EngineResources/Black.uasset" 471
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 472
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 473
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 474
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 475
+"../../../Engine/Content/EngineSounds/Master.uasset" 476
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 477
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 478
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 479
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 480
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 481
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 482
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 483
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 484
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 485
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 486
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 487
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 488
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 489
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 490
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 491
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 492
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 493
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 494
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 495
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 496
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 497
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 498
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 499
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 500
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 501
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 502
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 503
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 504
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 505
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 506
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 507
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 508
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 509
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 510
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 511
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 512
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 513
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 514
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 515
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 516
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 517
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 518
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 519
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 520
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 521
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 522
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 523
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 524
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 525
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 526
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 527
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/IDA_Music_Pack/Wavs/WAV_IDA_-_Postive_Event_Loop.uasset" 528
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/IDA_Music_Pack/Cues/CUE_IDA_-_Postive_Event_Loop_Cue.uasset" 529
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Levels/deadscreen2_Sprite.uasset" 530
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Levels/death_room666.umap" 531
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Blueprints/MainMenu.uasset" 532
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/background.uasset" 533
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/TitleScreen.uasset" 534
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/background_Mat.uasset" 535
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/creditslayers.uasset" 536
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Blueprints/main_menu.uasset" 537
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Levels/MainMenu.umap" 538
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset" 539
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/LevelTransitionZone.uasset" 540
+"../../../Engine/Content/MapTemplates/Bokeh_5Sides.uasset" 541
+"../../../Engine/Content/MapTemplates/T_ScreenDirt02_w.uasset" 542
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2dSideScroller/Textures/2DBackgroundBlockAtlas.uasset" 543
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/2DSideScroller/Sprites/Ledge.uasset" 544
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Background/Layer_17_Sprite.uasset" 545
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Background/tip2_Sprite.uasset" 546
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Background/tip_Sprite.uasset" 547
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Levels/Room1.umap" 548
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/rat/Rat_Pose_1_Sprite.uasset" 549
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/rat/Rat_Pose.uasset" 550
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/rat/Rat_Pose_2_Sprite.uasset" 551
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/rat/Rat_Pose1.uasset" 552
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/rat/Rat_Pose_3_Sprite.uasset" 553
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/rat/Rat_Pose2.uasset" 554
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/enemy_rat.uasset" 555
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Levels/Room2_BuiltData.uasset" 556
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/IDA_Music_Pack/Wavs/WAV_IDA_-_Danger_Loop.uasset" 557
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/IDA_Music_Pack/Cues/CUE_IDA_-_Danger_Loop_Cue.uasset" 558
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/barrel_single.uasset" 559
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/crate_empty.uasset" 560
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Levels/Room2.umap" 561
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Levels/Room3_BuiltData.uasset" 562
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Levels/Room3.umap" 563
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Levels/Room4_BuiltData.uasset" 564
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/NewMaterial.uasset" 565
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Background/warehouse_Sprite.uasset" 566
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/basket_full.uasset" 567
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/box_long_vertical.uasset" 568
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/shelves.uasset" 569
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Levels/Room4.umap" 570
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Attacks/enemy_attack_snipe.uasset" 571
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/sniper/Shooter_Pose_2_Sprite.uasset" 572
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/sniper/Shooter_Pose1.uasset" 573
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/sniper/Shooter_Pose_3_Sprite.uasset" 574
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/sniper/Shooter_Pose2.uasset" 575
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/base_enemy_Child.uasset" 576
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Levels/Room5_BuiltData.uasset" 577
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/book_stack_vertical.uasset" 578
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/bowl.uasset" 579
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Levels/Room5.umap" 580
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/sniper/brawler_pose_1_Sprite.uasset" 581
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/sniper/brawler_pose.uasset" 582
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/sniper/brawler_pose_2_Sprite.uasset" 583
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/sniper/brawler_pose1.uasset" 584
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/sniper/brawler_pose_3_Sprite.uasset" 585
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/sniper/brawler_pose2.uasset" 586
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/enemy_brute.uasset" 587
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Levels/Room6_BuiltData.uasset" 588
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Background/Inn_Sprite.uasset" 589
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/candlecolourliquid.uasset" 590
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/candlemaincolour.uasset" 591
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/candlewickcolour.uasset" 592
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Models/candle.uasset" 593
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Levels/Room6.umap" 594
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Levels/Room7_BuiltData.uasset" 595
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Background/dock_Sprite.uasset" 596
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/IDA_Music_Pack/Wavs/WAV_IDA_-_High_Intensity_Loop.uasset" 597
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/IDA_Music_Pack/Cues/CUE_IDA_-_High_Intensity_Loop_Cue.uasset" 598
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Levels/Room7.umap" 599
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/flamesister/Pyro_Pose_1.uasset" 600
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/flamesister/Pyro_Pose_1_Sprite.uasset" 601
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/flamesister/Pyro_Pose.uasset" 602
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/flamesister/Pyro_Pose_3.uasset" 603
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/flamesister/Pyro_Pose_3_Sprite.uasset" 604
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/flamesister/Pyro_Pose2.uasset" 605
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Enemies/enemy_flame_sister.uasset" 606
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Levels/Room8_BuiltData.uasset" 607
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Levels/Room8.umap" 608
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Levels/Room9_BuiltData.uasset" 609
+"C:/Users/Evan/Documents/Unreal Projects/LonelyDark/Content/Levels/Room9.umap" 610
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 611
+"../../../Engine/Content/Maps/Entry.umap" 612
